@@ -10,10 +10,36 @@ La partie droite de l'ecran principal de spoke contient 2 parties :
 
 ## Outils triés par catégorie
 * [Outils](fr_tools.md)
-* [Deplacements](/spoke/elements/fr_move.md)
-* [Interactions](/spoke/elements/fr_interactions.md)
-* [Eclairage](/spoke/elements/fr_lighting.md)
-* [Assets](/spoke/elements/fr_assets.md)
+  * [Group](fr_tools.md#group)
+  * [Ground Plane](fr_tools.md#ground-plane)
+
+* [Deplacements](fr_move.md)
+  * [Spawn point](fr_move.md#spawn-point)
+  * [Way point](fr_move.md#way-point)
+  * [Floor plan](fr_move.md#floor-plan)
+  * [Box collider](fr_move.md#box-collider)
+
+* [Interactions](fr_interactions.md)
+  * [Spawner](fr_interactions.md#spawner)
+  * [Trigger Volume](fr_interactions.md#trigger-volume)
+  * [Link](fr_interactions.md#link)
+  * [Media Frame](fr_interactions.md#media-frame)
+
+* [Eclairage](fr_lighting.md)
+  * [Skybox](fr_lighting.md#skybox)
+  * [Hemisphere light](fr_lighting.md#hemisphere-light)
+  * [Ambiant light](fr_lighting.md#ambiant-light)
+  * [Directional Light](fr_lighting.md#directional-light)
+  * [Spotlight](fr_lighting.md#spotlight)
+  * [Point light](fr_lighting.md#point-light)
+
+* [Assets](/fr_assets.md)
+  * [Model](/fr_assets.md#model)
+  * [Image](/fr_assets.md#image)
+  * [Video](/fr_assets.md#video)
+  * [Audio](/fr_assets.md#audio)
+  * [Particle Emitter](/fr_assets.md#particle-emitter)
+  * [Simple Water](/fr_assets.md#simple-water)
 
 ## Root
 - transformable : non
