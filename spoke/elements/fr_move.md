@@ -41,8 +41,8 @@ Définit la surface de votre scene sur laquelle les avatars peuvent se déplacer
 #### Utilisation
 
 #### Options
-* Auto Cell Size : taille automatique du plafond.
-* Cell Height : hauteur du plafond.
+* Auto Cell Size : taille automatique d'une cellule.
+* Cell Height : hauteur d'une cellule.
 * Agent Height : hauteur des avatars.
 * Agent Radius : largeur des avatars.
 * Maximum Step Height : hauteur maximale des marches d'escaliers.
