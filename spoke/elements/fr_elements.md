@@ -9,7 +9,7 @@ La partie droite de l'ecran principal de spoke contient 2 parties :
 * Certains éléments sont "uniques" (on ne peut en mettre qu'un seul sur la scene).
 
 ## Outils triés par catégorie
-* [Outils](/spoke/elements/fr_tools.md)
+* [Outils](fr_tools.md)
 * [Deplacements](/spoke/elements/fr_move.md)
 * [Interactions](/spoke/elements/fr_interactions.md)
 * [Eclairage](/spoke/elements/fr_lighting.md)
