@@ -73,3 +73,39 @@ Amazon Relational Database Service (Amazon RDS) vous permet d'installer, de gér
 
 ## Autres services
 Ces autres services sont utilisé mais non listés sur le schema.
+
+### Ec2
+Amazon Elastic Compute Cloud (Amazon EC2) est un service Web qui fournit une capacité de calcul sécurisée et redimensionnable dans le cloud.
+ * [Page de présentation](https://aws.amazon.com/fr/ec2)
+ * [Page d'administration](https://eu-west-1.console.aws.amazon.com/ec2)
+
+### Iam
+AWS Identity and Access Management (IAM) vous permet de contrôler de façon sécurisée l'accès aux services et ressources AWS.
+ * [Page de présentation](https://aws.amazon.com/fr/iam)
+ * [Page d'administration](https://console.aws.amazon.com/iam)
+
+### Licence
+AWS License Manager facilite la gestion des licences sur AWS et sur les serveurs sur site pour des fournisseurs de logiciels comme Microsoft, SAP, Oracle et IBM. AWS License Manager permet aux administrateurs de créer des règles de licence personnalisées qui imitent les termes de leurs accords de licence, et puis d’appliquer ces règles lors du lancement d'une instance d'EC2.
+ * [Page de présentation](https://aws.amazon.com/fr/license-manager/)
+ * [Page d'administration](https://eu-west-1.console.aws.amazon.com/license-manager)
+
+### Marketplace
+AWS Marketplace est un catalogue numérique contenant des milliers de listes de logiciels créés par des prestataires indépendants.
+ * [Page de présentation](https://aws.amazon.com/marketplace)
+ * [Page d'administration](https://console.aws.amazon.com/marketplace)
+
+### Organizations
+AWS Organizations vous aide à gérer et à contrôler votre environnement de manière centralisée à mesure que vous développez et mettez à l'échelle vos ressources AWS.
+ * [Page de présentation](https://aws.amazon.com/fr/organizations/)
+ * [Page d'administration](https://console.aws.amazon.com/organizations)
+
+### Route 53
+Amazon Route 53 est un service Web de système de noms de domaine (DNS) dans le cloud hautement disponible et évolutif.
+ * [Page de présentation](https://aws.amazon.com/fr/route53/)
+ * [Page d'administration](https://console.aws.amazon.com/route53)
+
+### VPC
+Amazon Virtual Private Cloud (Amazon VPC) vous permet de mettre en service une section du cloud AWS qui a été isolée de manière logique et dans laquelle vous pouvez lancer des ressources AWS dans un réseau virtuel que vous définissez.
+ * [Page de présentation](https://aws.amazon.com/fr/vpc/)
+ * [Page d'administration](https://eu-west-1.console.aws.amazon.com/vpc)
+
