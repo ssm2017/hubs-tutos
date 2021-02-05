@@ -17,7 +17,7 @@ Voici l'architecture de hubs cloud selon leur doc :
 Nous allons tenter de voir les significations de chaque service.
 
 ### cloudfront
-Cloudfront est un systeme permettant la mise en cache de données statiques.
+Amazon CloudFront est un réseau rapide de diffusion de contenu (CDN) qui distribue en toute sécurité des données, des vidéos, des applications et des API à vos utilisateurs, avec une faible latence et des vitesses de transfert élevées, le tout dans un environnement convivial pour les développeurs.
  * [Page de présentation](https://aws.amazon.com/fr/cloudfront/)
  * [Page d'administration](https://console.aws.amazon.com/cloudfront)
 
