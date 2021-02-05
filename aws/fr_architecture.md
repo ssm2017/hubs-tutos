@@ -109,3 +109,10 @@ Amazon Virtual Private Cloud (Amazon VPC) vous permet de mettre en service une s
  * [Page de présentation](https://aws.amazon.com/fr/vpc/)
  * [Page d'administration](https://eu-west-1.console.aws.amazon.com/vpc)
 
+### Cloud formation
+AWS CloudFormation est un moyen simple de modéliser une collection de ressources AWS et tierces, de les allouer rapidement et de manière cohérente, et de les gérer tout au long de leur cycle de vie grâce au traitement de l'infrastructure en tant que code (Infrastructure as Code).
+ * [Page de présentation](https://aws.amazon.com/fr/cloudformation/)
+ * [Page d'administration](https://eu-west-1.console.aws.amazon.com/cloudformation)
+
+### Support
+[Page de support](https://console.aws.amazon.com/support)
