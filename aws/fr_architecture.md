@@ -16,6 +16,26 @@ Voici l'architecture de hubs cloud selon leur doc :
 
 Nous allons tenter de voir les significations de chaque service.
 
+Selon leur doc :
+
+Quand vous créez un stack(pile), un nouveau VPC est créé avec deux sous réseaux public.
+
+Hubs cloud sur AWS met en place deux groupe d'auto-scaling, un pour les serveurs d'application et un pour (optionnel) les serveurs de stream.
+Les serveurs sont autobalancés entre deux AZ.
+Les serveurs d'application fournissent les fonctionnalités de l'application centrale et des serveurs de stream peuvent être ajoutés pour augmenter les ressources pour la voix et le streaming de vidéo.
+
+AWS Cloudfront est configuré pour la mise en cache du contenu et AWS lambda est utilisé pour plusieur fonctions comme le redimentionnement d'images, l'encodage video et les miniatures sur le site web.
+
+Quand vous configurez votre stack, vous pouvez aussi optionnellement activer une application de répartition de charge pour basculer entre plusieurs serveurs. Si vous n'utilisez pas un ALB, une repartition de charge DNS round robin est alors utilisée.
+
+AWS simple email service est utilisé pour les emails tant que vous ne configurez pas un serveur SMTP personnalisé.
+
+Les assets uploadés sont stockés sur un Elastic FIle Store et les assets statiques (JS/CSS/Images) sont stockés sur S3. La base de données est du PosgreSQL compatible avec AWS aurora serverless qui sera mise en pause si non utilisée sauf si vous le désactivez dans les reglages de configuration.
+
+Les mots secrets de la configuration sont stockés dans AWS secrets manager tant que les parametres de AWS Parameter store sont des chaines chiffrées.
+
+Les données dans EFS et RDS sont stockées chiffrées (encrypted-at-rest)
+
 ### cloudfront
 Amazon CloudFront est un réseau rapide de diffusion de contenu (CDN) qui distribue en toute sécurité des données, des vidéos, des applications et des API à vos utilisateurs, avec une faible latence et des vitesses de transfert élevées, le tout dans un environnement convivial pour les développeurs.
  * [Page de présentation](https://aws.amazon.com/fr/cloudfront/)
