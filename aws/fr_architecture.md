@@ -114,5 +114,10 @@ AWS CloudFormation est un moyen simple de modéliser une collection de ressource
  * [Page de présentation](https://aws.amazon.com/fr/cloudformation/)
  * [Page d'administration](https://eu-west-1.console.aws.amazon.com/cloudformation)
 
+### Systems
+Avec AWS Systems Manager, vous bénéficiez d'un maximum de visibilité et de contrôle sur votre infrastructure sur AWS. Systems Manager fournit une interface utilisateur unifiée qui vous permet d'afficher les données opérationnelles de plusieurs services AWS et d'automatiser les tâches opérationnelles pour vos ressources AWS.
+ * [Page de présentation](https://aws.amazon.com/fr/systems-manager/)
+ * [Page d'administration](https://eu-west-1.console.aws.amazon.com/systems-manager)
+
 ### Support
 [Page de support](https://console.aws.amazon.com/support)
