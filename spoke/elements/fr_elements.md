@@ -34,13 +34,13 @@ La partie droite de l'ecran principal de spoke contient 2 parties :
   * [Spotlight](fr_lighting.md#spotlight)
   * [Point light](fr_lighting.md#point-light)
 
-* [Assets](/fr_assets.md)
-  * [Model](/fr_assets.md#model)
-  * [Image](/fr_assets.md#image)
-  * [Video](/fr_assets.md#video)
-  * [Audio](/fr_assets.md#audio)
-  * [Particle Emitter](/fr_assets.md#particle-emitter)
-  * [Simple Water](/fr_assets.md#simple-water)
+* [Assets](fr_assets.md)
+  * [Model](fr_assets.md#model)
+  * [Image](fr_assets.md#image)
+  * [Video](fr_assets.md#video)
+  * [Audio](fr_assets.md#audio)
+  * [Particle Emitter](fr_assets.md#particle-emitter)
+  * [Simple Water](fr_assets.md#simple-water)
 
 ## Root
 - transformable : non
