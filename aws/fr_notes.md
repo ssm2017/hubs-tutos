@@ -1,4 +1,4 @@
-[Retour AWS](../aws/Readme.md)
+[Retour AWS](../aws/Readme.md) | [Retour début](/fr_index.md)
 ## Supprimer les parametres smtp
  * aws console -> systems manager -> parameter store
  * supprimer tout ce qui a lien à l'email
