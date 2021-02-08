@@ -1,3 +1,4 @@
+[Retour AWS](../aws/Readme.md)
 ## Bases aws
 Si on veut monter un serveur "on premise" (hebergé sur une machine virtuelle ou bare metal), il faut installer tout ce qu'il faut et le gérer soi même.
 
