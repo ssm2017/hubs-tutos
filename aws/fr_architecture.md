@@ -140,5 +140,10 @@ Avec AWS Systems Manager, vous bénéficiez d'un maximum de visibilité et de co
  * [Page de présentation](https://aws.amazon.com/fr/systems-manager/)
  * [Page d'administration](https://eu-west-1.console.aws.amazon.com/systems-manager)
 
+### Quotas
+Your AWS account has default quotas, formerly referred to as limits, for each AWS service. Unless otherwise noted, each quota is Region-specific. You can request increases for some quotas, and other quotas cannot be increased. 
+ * [Page de présentation](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html)
+ * [Page d'administration](https://eu-west-1.console.aws.amazon.com/servicequotas)
+
 ### Support
 [Page de support](https://console.aws.amazon.com/support)
