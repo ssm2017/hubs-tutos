@@ -141,9 +141,14 @@ Avec AWS Systems Manager, vous bénéficiez d'un maximum de visibilité et de co
  * [Page d'administration](https://eu-west-1.console.aws.amazon.com/systems-manager)
 
 ### Quotas
-Your AWS account has default quotas, formerly referred to as limits, for each AWS service. Unless otherwise noted, each quota is Region-specific. You can request increases for some quotas, and other quotas cannot be increased. 
+Votre compte AWS dispose de quotas par défaut, anciennement appelés limites, pour chaque service AWS. Sauf indication contraire, chaque quota est spécifique à la région. Vous pouvez demander des augmentations pour certains quotas, et d'autres quotas ne peuvent pas être augmentés.
  * [Page de présentation](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html)
  * [Page d'administration](https://eu-west-1.console.aws.amazon.com/servicequotas)
+
+### Workmail
+Amazon WorkMail est un service de messagerie et de calendrier professionnel, sécurisé et géré, qui prend en charge les applications clientes de messagerie de bureau et mobile existantes.
+ * [Page de présentation](https://aws.amazon.com/fr/workmail)
+ * [Page d'administration](https://console.aws.amazon.com/workmail/)
 
 ### Support
 [Page de support](https://console.aws.amazon.com/support)
