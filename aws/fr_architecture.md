@@ -147,6 +147,7 @@ Votre compte AWS dispose de quotas par défaut, anciennement appelés limites, p
 
 ### Workmail
 Amazon WorkMail est un service de messagerie et de calendrier professionnel, sécurisé et géré, qui prend en charge les applications clientes de messagerie de bureau et mobile existantes.
+/!\ Gratuit 30 jours pour 25 utilisateurs puis payant (4€/utilisateur/mois)
  * [Page de présentation](https://aws.amazon.com/fr/workmail)
  * [Page d'administration](https://console.aws.amazon.com/workmail/)
 
