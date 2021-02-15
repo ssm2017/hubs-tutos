@@ -92,6 +92,15 @@ Amazon Relational Database Service (Amazon RDS) vous permet d'installer, de gér
  * [Page de présentation](https://aws.amazon.com/fr/rds/)
  * [Page d'administration](https://eu-west-1.console.aws.amazon.com/rds)
 
+### Sns
+Amazon Simple Notification Service (Amazon SNS) est un service de messagerie entièrement géré pour la communication d'application à application (A2A) et d'application à personne (A2P).
+ * [Page de présentation](https://aws.amazon.com/fr/sns/)
+ * [Page d'administration](https://eu-west-1.console.aws.amazon.com/sns)
+
+### ssm messages
+Systems Manager uses the ssmmessages endpoint to make calls from SSM Agent to the Session Manager service in the cloud. This endpoint is required to create and delete session channels with the Session Manager service in the cloud. 
+ * [Page de présentation](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-setting-up-messageAPIs.html)
+
 ## Autres services
 Ces autres services sont utilisé mais non listés sur le schema.
 
