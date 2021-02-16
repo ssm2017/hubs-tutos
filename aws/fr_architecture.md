@@ -160,5 +160,10 @@ Amazon WorkMail est un service de messagerie et de calendrier professionnel, sé
  * [Page de présentation](https://aws.amazon.com/fr/workmail)
  * [Page d'administration](https://console.aws.amazon.com/workmail/)
 
+### Cloudwatch
+Amazon CloudWatch est un service de surveillance et d'observabilité conçu pour les ingénieurs DevOps, les développeurs, les ingénieurs en fiabilité de sites (SRE) et les responsables informatiques.
+ * [Page de présentation](https://aws.amazon.com/fr/cloudwatch/)
+ * [Page d'administration](https://eu-west-1.console.aws.amazon.com/cloudwatch/)
+
 ### Support
 [Page de support](https://console.aws.amazon.com/support)
